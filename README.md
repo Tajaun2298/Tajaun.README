@@ -97,7 +97,179 @@ Future additions may include:
 - game-day operations checklists
 - parent FAQ templates
 - budget and fee planning tools
+- # Parent Welcome Email Template
 
+Subject: Welcome to [Program Name]
+
+Dear Parents and Guardians,
+
+We are excited to welcome your child to [Program Name].
+
+This program is designed to provide students with an engaging, structured, and positive experience while helping them grow in skill, confidence, teamwork, and discipline.
+
+## Program Details
+- Program: [Program Name]
+- Start Date: [Start Date]
+- End Date: [End Date]
+- Days: [Days]
+- Time: [Time]
+- Location: [Location]
+
+## Important Notes
+- Students must have all required forms completed before participating.
+- Sports physicals are required if applicable.
+- Students should arrive prepared with proper athletic clothing, sneakers, and water.
+- Pickup will take place at [Pickup Location].
+- Students must be signed out by an approved parent or guardian unless otherwise authorized.
+
+## Communication
+If there are schedule updates, reminders, or important announcements, they will be shared through [email / app / school communication platform].
+
+If you have any questions, please contact:
+[Name]
+[Email]
+[Phone]
+
+We look forward to a great program and appreciate your support.
+
+Sincerely,  
+[Your Name]  
+[Title]
+
+# Student Dismissal SOP
+
+## Purpose
+
+This standard operating procedure provides a consistent process for student dismissal and sign-out at the end of athletics or after-school sports programming.
+
+## Goal
+
+To ensure every student is released safely, accurately, and only to an approved parent, guardian, or authorized pickup person.
+
+## Staff Responsibilities
+
+### Program Lead
+- Oversees dismissal process
+- Ensures student roster is accurate
+- Confirms staff coverage during dismissal
+- Addresses any issues or parent concerns
+
+### Assigned Dismissal Staff
+- Verifies student name
+- Confirms approved pickup person
+- Tracks sign-out
+- Maintains orderly dismissal flow
+
+### Coaches / Assistants
+- Keep students supervised until released
+- Ensure no student leaves without approval
+- Help direct students to designated pickup location
+
+## Dismissal Procedure
+
+### 1. Prepare for Dismissal
+- Gather student roster
+- Gather sign-out sheet or dismissal device
+- Move students to designated dismissal area
+- Confirm staff are in assigned positions
+
+### 2. Student Supervision
+- Students remain with staff until called
+- Students are not to leave independently unless prior written approval exists
+- Staff should maintain visual supervision at all times
+
+### 3. Verify Pickup
+Before releasing a student:
+- Ask for student name
+- Confirm pickup person identity if needed
+- Check against approved contacts if required
+- Confirm the student being released matches the request
+
+### 4. Record Sign-Out
+Record:
+- student name
+- pickup person name
+- time of dismissal
+- staff initials if needed
+
+### 5. Handle Delays or Issues
+If no approved pickup person arrives:
+- keep student supervised
+- contact parent/guardian on file
+- notify program lead
+- do not release student without approval
+
+## Safety Rules
+- No student should leave without staff awareness
+- No verbal assumptions should replace verification
+- Staff should escalate concerns immediately
+- Emergency contact information should remain accessible during dismissal
+
+## Recommended Tools
+- printed roster
+- sign-out sheet
+- iPad or tablet-based sign-out system
+- emergency contact list
+- staff walkie-talkies if applicable
+
+## Continuous Improvement
+After each season or program cycle:
+- review dismissal flow
+- identify bottlenecks
+- update procedures as needed
+- retrain staff if necessary
+
+- ## Securing a Partnership: Jr. NBA / Jr. WNBA Example
+
+One of the strongest ways to grow and legitimize a youth sports program is by securing strategic partnerships. A partnership can provide credibility, resources, curriculum support, branding opportunities, and sometimes equipment or operational guidance.
+
+### Example Use Case
+This toolkit can support programs seeking to build or strengthen a partnership with organizations such as Jr. NBA / Jr. WNBA.
+
+### Why Partnerships Matter
+For a school-based or youth basketball program, a partnership can help:
+- increase program credibility
+- strengthen parent and student interest
+- align the program with a nationally recognized brand
+- provide access to development resources
+- support league structure and long-term growth
+- create stronger community and sponsor interest
+
+### Partnership Preparation Checklist
+Before reaching out to a partner like Jr. NBA / Jr. WNBA, a program should be prepared to clearly communicate:
+- target age groups and divisions
+- estimated number of participants
+- practice and game schedule
+- facility access
+- staffing and coaching support
+- student development goals
+- community impact
+- prior program success if applicable
+
+### Sample Positioning Statement
+Our Jr. NBA / Jr. WNBA program is designed to create a structured, engaging basketball experience for young student-athletes while emphasizing skill development, teamwork, discipline, and character. Through this partnership, we aim to expand opportunities for our students and build a sustainable basketball program that continues to grow year after year.
+
+### Key Information to Highlight in Outreach
+When pursuing a Jr. NBA / Jr. WNBA partnership, be sure to highlight:
+- this will be our [insert year] running the program
+- the number of boys and girls we plan to serve
+- our commitment to structured scheduling and supervision
+- how the program supports youth development beyond basketball
+- available facilities and staff support
+- how the partnership aligns with the mission of serving young athletes in the community
+
+### Suggested Partnership Assets to Prepare
+- program overview
+- participant projections
+- proposed schedule
+- coach/staff list
+- facility information
+- photos or highlights from prior years
+- parent communication plan
+- student impact statement
+
+### Example Outcome
+A strong partnership strategy can help turn a school or youth basketball offering into a more recognized and sustainable development program, while also opening the door to future sponsorships, community support, and expanded student participation.
 ## Folder Structure
 
 ```text
@@ -106,28 +278,5 @@ athletics-operations-toolkit/
 ├── templates/
 ├── samples/
 └── images/
-# Practice Schedule Sample
 
-## Program
-Junior Athletics Sample Schedule
 
-## Weekly Structure
-
-### Monday
-- 3:05 PM to 4:00 PM — Study Hall / Student Holding
-- 4:15 PM to 4:30 PM — Dynamic Warm-Up
-- 4:30 PM to 5:10 PM — Skill Development
-- 5:10 PM to 5:25 PM — Team Concepts / Group Work
-- 5:25 PM to 5:30 PM — Dismissal Prep
-
-### Wednesday
-- 3:05 PM to 4:00 PM — Study Hall / Student Holding
-- 4:15 PM to 4:30 PM — Dynamic Warm-Up
-- 4:30 PM to 5:10 PM — Skill Development
-- 5:10 PM to 5:25 PM — Controlled Competition / Scrimmage
-- 5:25 PM to 5:30 PM — Dismissal Prep
-
-## Staff Notes
-- Attendance should be taken before warm-up begins
-- Students should remain supervised during all transition windows
-- Dismissal staff should be in place 10 minutes before pickup
