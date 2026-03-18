@@ -1,5 +1,4 @@
 # Tajaun.README
-youth-sports-budget-launch-model
 # Athletics Operations Toolkit
 
 A practical toolkit designed to help school-based and youth sports programs run more efficiently through simple systems, templates, and operating procedures.
@@ -97,44 +96,99 @@ Future additions may include:
 - game-day operations checklists
 - parent FAQ templates
 - budget and fee planning tools
-- # Parent Welcome Email Template
 
-Subject: Welcome to [Program Name]
 
-Dear Parents and Guardians,
+## `docs/operations-checklist.md`
 
-We are excited to welcome your child to [Program Name].
+```md
+# Athletics Operations Checklist
 
-This program is designed to provide students with an engaging, structured, and positive experience while helping them grow in skill, confidence, teamwork, and discipline.
+Use this checklist before launching or running a sports program.
 
-## Program Details
-- Program: [Program Name]
-- Start Date: [Start Date]
-- End Date: [End Date]
-- Days: [Days]
-- Time: [Time]
-- Location: [Location]
+## Pre-Launch Planning
+- Confirm program goals and age groups
+- Finalize program dates
+- Confirm days and times
+- Reserve facilities
+- Confirm coach and staff availability
+- Set participant capacity
+- Finalize registration form
+- Create parent communication draft
+- Confirm physical/medical requirements
+- Confirm equipment needs
+- Build attendance process
+- Build dismissal/sign-out process
+- Set up emergency contact access
+- Confirm storage space for equipment
+- Prepare roster sheet
+- Prepare staff contact list
 
-## Important Notes
-- Students must have all required forms completed before participating.
-- Sports physicals are required if applicable.
-- Students should arrive prepared with proper athletic clothing, sneakers, and water.
-- Pickup will take place at [Pickup Location].
-- Students must be signed out by an approved parent or guardian unless otherwise authorized.
+## Registration & Enrollment
+- Open registration
+- Track registrations weekly
+- Review missing forms
+- Review missing physicals
+- Send reminders to families
+- Confirm final roster
+- Build waitlist if needed
+- Separate participants by grade or division if needed
 
-## Communication
-If there are schedule updates, reminders, or important announcements, they will be shared through [email / app / school communication platform].
+## Staffing
+- Confirm head coach
+- Confirm assistants
+- Confirm support staff
+- Share program schedule with staff
+- Share student roster with staff
+- Review dismissal and supervision expectations
+- Review attendance process
+- Review emergency procedures
 
-If you have any questions, please contact:
-[Name]
-[Email]
-[Phone]
+## Equipment & Materials
+- Inventory current equipment
+- Order missing items
+- Label team equipment if needed
+- Prepare first aid materials
+- Prepare practice materials
+- Prepare jerseys or shirts if applicable
+- Confirm water access or hydration plan
 
-We look forward to a great program and appreciate your support.
+## Parent Communication
+- Send acceptance/welcome email
+- Send schedule
+- Send pickup instructions
+- Send physical reminder if needed
+- Send behavior expectations if needed
+- Send weather update process
+- Share main contact information
 
-Sincerely,  
-[Your Name]  
-[Title]
+## Day 1 Readiness
+- Print roster
+- Print emergency contacts
+- Prepare attendance sheet
+- Prepare sign-out sheet or iPad
+- Set up equipment
+- Confirm staff arrival times
+- Confirm student pickup location
+- Review dismissal plan with staff
+
+## Ongoing Weekly Operations
+- Take attendance daily
+- Track absences
+- Communicate schedule changes
+- Monitor equipment use
+- Update staff as needed
+- Follow up with families when needed
+- Confirm facility readiness
+- Document issues for improvement
+
+## End of Program
+- Collect equipment
+- Review attendance records
+- Summarize participation numbers
+- Gather feedback from staff
+- Gather feedback from families
+- Identify improvements for next cycle
+- Save final files and templates
 
 # Student Dismissal SOP
 
@@ -219,57 +273,153 @@ After each season or program cycle:
 - update procedures as needed
 - retrain staff if necessary
 
-- ## Securing a Partnership: Jr. NBA / Jr. WNBA Example
+# Parent Welcome Email Template
 
-One of the strongest ways to grow and legitimize a youth sports program is by securing strategic partnerships. A partnership can provide credibility, resources, curriculum support, branding opportunities, and sometimes equipment or operational guidance.
+Subject: Welcome to [Program Name]
 
-### Example Use Case
-This toolkit can support programs seeking to build or strengthen a partnership with organizations such as Jr. NBA / Jr. WNBA.
+Dear Parents and Guardians,
 
-### Why Partnerships Matter
-For a school-based or youth basketball program, a partnership can help:
-- increase program credibility
-- strengthen parent and student interest
-- align the program with a nationally recognized brand
-- provide access to development resources
-- support league structure and long-term growth
-- create stronger community and sponsor interest
+We are excited to welcome your child to [Program Name].
 
-### Partnership Preparation Checklist
-Before reaching out to a partner like Jr. NBA / Jr. WNBA, a program should be prepared to clearly communicate:
-- target age groups and divisions
-- estimated number of participants
-- practice and game schedule
-- facility access
-- staffing and coaching support
-- student development goals
-- community impact
-- prior program success if applicable
+This program is designed to provide students with an engaging, structured, and positive experience while helping them grow in skill, confidence, teamwork, and discipline.
 
-### Sample Positioning Statement
-Our Jr. NBA / Jr. WNBA program is designed to create a structured, engaging basketball experience for young student-athletes while emphasizing skill development, teamwork, discipline, and character. Through this partnership, we aim to expand opportunities for our students and build a sustainable basketball program that continues to grow year after year.
+## Program Details
+- Program: [Program Name]
+- Start Date: [Start Date]
+- End Date: [End Date]
+- Days: [Days]
+- Time: [Time]
+- Location: [Location]
 
-### Key Information to Highlight in Outreach
-When pursuing a Jr. NBA / Jr. WNBA partnership, be sure to highlight:
-- this will be our [insert year] running the program
-- the number of boys and girls we plan to serve
-- our commitment to structured scheduling and supervision
-- how the program supports youth development beyond basketball
-- available facilities and staff support
-- how the partnership aligns with the mission of serving young athletes in the community
+## Important Notes
+- Students must have all required forms completed before participating.
+- Sports physicals are required if applicable.
+- Students should arrive prepared with proper athletic clothing, sneakers, and water.
+- Pickup will take place at [Pickup Location].
+- Students must be signed out by an approved parent or guardian unless otherwise authorized.
 
-### Suggested Partnership Assets to Prepare
-- program overview
-- participant projections
-- proposed schedule
-- coach/staff list
-- facility information
-- photos or highlights from prior years
-- parent communication plan
-- student impact statement
+## Communication
+If there are schedule updates, reminders, or important announcements, they will be shared through [email / app / school communication platform].
 
-### Example Outcome
-A strong partnership strategy can help turn a school or youth basketball offering into a more recognized and sustainable development program, while also opening the door to future sponsorships, community support, and expanded student participation.
+If you have any questions, please contact:
+[Name]
+[Email]
+[Phone]
+
+We look forward to a great program and appreciate your support.
+
+Sincerely,  
+[Your Name]  
+[Title]
+
+Date,Student Name,Grade,Present,Absent,Late,Notes
+2026-03-01,Student 1,5,Yes,No,No,
+2026-03-01,Student 2,6,Yes,No,No,
+2026-03-01,Student 3,7,No,Yes,No,Parent notified
+2026-03-01,Student 4,8,Yes,No,Yes,Arrived 10 minutes late
+
+Item Category,Item Name,Quantity,Condition,Assigned To,Issue Date,Return Date,Notes
+Uniform,Jersey - Blue,25,Good,,,
+Uniform,Shorts - Blue,25,Good,,,
+Equipment,Basketball,15,Good,,,
+Equipment,Cones,30,Good,,,
+Equipment,Flag Belts,40,Good,,,
+Safety,First Aid Kit,2,Good,,,
+
+# Practice Schedule Sample
+
+## Program
+Junior Athletics Sample Schedule
+
+## Weekly Structure
+
+### Monday
+- 3:05 PM to 4:00 PM — Study Hall / Student Holding
+- 4:15 PM to 4:30 PM — Dynamic Warm-Up
+- 4:30 PM to 5:10 PM — Skill Development
+- 5:10 PM to 5:25 PM — Team Concepts / Group Work
+- 5:25 PM to 5:30 PM — Dismissal Prep
+
+### Wednesday
+- 3:05 PM to 4:00 PM — Study Hall / Student Holding
+- 4:15 PM to 4:30 PM — Dynamic Warm-Up
+- 4:30 PM to 5:10 PM — Skill Development
+- 5:10 PM to 5:25 PM — Controlled Competition / Scrimmage
+- 5:25 PM to 5:30 PM — Dismissal Prep
+
+## Staff Notes
+- Attendance should be taken before warm-up begins
+- Students should remain supervised during all transition windows
+- Dismissal staff should be in place 10 minutes before pickup
+
+# Program Rollout Summary
+
+## Program Name
+Sample Youth Sports Program
+
+## Objective
+Launch a structured after-school sports program that supports student participation, skill development, and strong family communication.
+
+## Key Components
+- registration process
+- staffing assignments
+- physical clearance process
+- attendance tracking
+- dismissal procedures
+- parent communications
+- facility coordination
+- equipment planning
+
+## Rollout Timeline
+
+### Phase 1: Planning
+- define goals
+- confirm dates and times
+- confirm staffing
+- secure facility access
+- build registration workflow
+
+### Phase 2: Enrollment
+- launch registration
+- monitor signups
+- collect required forms
+- confirm roster
+- send acceptance communications
+
+### Phase 3: Operations Setup
+- finalize schedules
+- prepare attendance tools
+- prepare sign-out process
+- organize equipment
+- align staff roles
+
+### Phase 4: Launch
+- run first session
+- monitor parent communication flow
+- track attendance
+- address operational issues quickly
+
+### Phase 5: Review
+- evaluate participation
+- review procedures
+- gather staff feedback
+- note improvements for next cycle
+
+## Success Indicators
+- strong student participation
+- smooth dismissal flow
+- clear parent communication
+- organized staff coverage
+- minimal confusion during launch
+
+## Folder Structure
+
+```text
+athletics-operations-toolkit/
+├── docs/
+├── templates/
+├── samples/
+└── images/
 ## Folder Structure
 
 ```text
