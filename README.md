@@ -106,3 +106,28 @@ athletics-operations-toolkit/
 ├── templates/
 ├── samples/
 └── images/
+# Practice Schedule Sample
+
+## Program
+Junior Athletics Sample Schedule
+
+## Weekly Structure
+
+### Monday
+- 3:05 PM to 4:00 PM — Study Hall / Student Holding
+- 4:15 PM to 4:30 PM — Dynamic Warm-Up
+- 4:30 PM to 5:10 PM — Skill Development
+- 5:10 PM to 5:25 PM — Team Concepts / Group Work
+- 5:25 PM to 5:30 PM — Dismissal Prep
+
+### Wednesday
+- 3:05 PM to 4:00 PM — Study Hall / Student Holding
+- 4:15 PM to 4:30 PM — Dynamic Warm-Up
+- 4:30 PM to 5:10 PM — Skill Development
+- 5:10 PM to 5:25 PM — Controlled Competition / Scrimmage
+- 5:25 PM to 5:30 PM — Dismissal Prep
+
+## Staff Notes
+- Attendance should be taken before warm-up begins
+- Students should remain supervised during all transition windows
+- Dismissal staff should be in place 10 minutes before pickup
